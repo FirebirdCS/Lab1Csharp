@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\.NET Curso\\backend\\prod\\Lab1\\Lab1.csproj": {}
+    "C:\\git\\Lab1Csharp-main\\Lab1.csproj": {}
   },
   "projects": {
-    "C:\\git\\.NET Curso\\backend\\prod\\Lab1\\Lab1.csproj": {
+    "C:\\git\\Lab1Csharp-main\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\.NET Curso\\backend\\prod\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "C:\\git\\Lab1Csharp-main\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "C:\\git\\.NET Curso\\backend\\prod\\Lab1\\Lab1.csproj",
+        "projectPath": "C:\\git\\Lab1Csharp-main\\Lab1.csproj",
         "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\.NET Curso\\backend\\prod\\Lab1\\obj\\",
+        "outputPath": "C:\\git\\Lab1Csharp-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alvar\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -40,17 +40,20 @@ namespace Lab1.Edu.Kinal.Lab.Entities
 
         public int GetTotalLlamadas()
         {
-            throw new NotImplementedException();
+            return this.Contador;
         }
 
         public double GetTotalFacturas()
         {
-            throw new NotImplementedException();
+            return this.Acumulador;
         }
 
-        public void RegistrarLlamada(Llamada llamada)
+        public void RegistrarLlamada(Llamada registro)
         {
-            throw new NotImplementedException();
+            Console.WriteLine(registro);
+            this.Contador = 1;
+            this.Acumulador = registro.CalcularPrecio();
+
         }
 
         public Llamada()
@@ -64,7 +67,6 @@ namespace Lab1.Edu.Kinal.Lab.Entities
             this.NumeroDestino = numeroDestino;
             this.Duracion = duracion;
         }
-
         public Llamada(string numeroOrigen, string numeroDestino)
         {
             this.NumeroOrigen = numeroOrigen;

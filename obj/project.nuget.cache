@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zpJzeUGMJDf5YhB73Y/2NtJCSXii3EaUoN7wr0+eSGTSB54LSzVLyQJXCho9MnKKEv9cdrt9EZEViGzHLrCmGw==",
+  "dgSpecHash": "LZ5xBa5tOAX4sj5k2WlivIWlvLU4bV3W5Tp6sxx7oYC8WKGiLwnI2Gu8hlRxgjpLwe/cdXA5AwBOctyHJY2tvw==",
   "success": true,
-  "projectFilePath": "C:\\git\\.NET Curso\\backend\\prod\\Lab1\\Lab1.csproj",
+  "projectFilePath": "C:\\git\\Lab1Csharp-main\\Lab1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
